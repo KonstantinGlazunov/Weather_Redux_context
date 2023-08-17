@@ -1,0 +1,22 @@
+{
+    "coord":{"lon":8.5,"lat":50.55},
+    "weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],
+    "base":"stations",
+    "main":{
+            "temp":293.2,
+            "feels_like":292.72,
+            "temp_min":291.31,
+            "temp_max":295.24,
+            "pressure":1016,
+            "humidity":56,
+            "sea_level":1016,
+            "grnd_level":997},
+    "visibility":10000,
+    "wind":{"speed":3.8,"deg":290,"gust":5.09},
+    "clouds":{"all":100},
+    "dt":1691586852,
+    "sys":{"type":2,"id":267665,"country":"DE","sunrise":1691553870,"sunset":1691607523},
+    "timezone":7200,
+    "id":2809889,
+    "name":"Wetzlar",
+    "cod":200}
